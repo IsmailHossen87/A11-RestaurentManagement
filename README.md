@@ -122,7 +122,7 @@ The Restaurant Management Website is a fully responsive and dynamic web applicat
 6. Open the application in your browser at [http://localhost:3000](http://localhost:3000).
 
 ## Repository Links
-- [GitHub Repository](https://github.com/IsmailHossen87/A-11-Restaurant-Management)
+- [GitHub Repository](https://github.com/IsmailHossen87/A11-RestaurentManagement)
 
 ---
 
